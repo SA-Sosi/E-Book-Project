@@ -1,0 +1,107 @@
+/* nav bar design 1st part*/
+.navbar{
+    background-color:rgb(215, 240, 215, 0.5);
+}
+.signin{
+    background-color:rgb(66, 187, 66);
+    color: white;
+    border-radius:20px;
+    padding:0px 15px 0px 15px;
+    margin-left: 20px;
+ } 
+ nav-item{
+    padding:2em;
+    }
+.nav-link{
+    color: black;
+}
+/* for carousel 2nd part*/
+.color{
+    background-color:rgb(215, 240, 215, 0.5);
+   padding-bottom: 40px;
+}
+/* .pic{
+    padding-right: 20px;
+} */
+
+ .shedule{
+    color: rgba(34, 192, 118, 0.753);
+ }
+ .heading{
+    color: red;
+ }
+ .btn{
+    border-radius: 20px;
+    background-color: rgb(34, 192, 118, 0.753);
+ }
+ .btn:hover{
+    color: white;
+    background-color: rgb(235, 131, 91);
+ }
+/* .signin:hover{
+    background-color: rgb(235, 131, 91);
+} */
+
+/* 3rd part */
+.cards{
+    background-color:rgba(229, 252, 229, 0.5);
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 5px;
+    margin-bottom: 20px;
+}
+.cards1{
+    border-radius: 5px;
+    border: 1px solid white;
+    box-shadow: 8px 8px 8px 8px lightgray;
+    text-align: center;
+    padding-top: 5px;
+    margin-bottom: 20px;
+}
+
+        /* card 4th part*/
+.card{
+    border: 1px solid white;
+    box-shadow: 8px 8px 8px 8px lightgray;
+    border-radius: 5px;
+    display: flex;   /*  display flex -ekta jeno r ektar pashe ashe.   R justify content around jeno soman durutte thake */
+    justify-content: space-around;
+    text-align: center;
+}
+
+#Online-courses{
+    text-align: center;
+}
+.img{
+    width: 95%;
+    align-self: center;
+    padding-top: 2%;
+}
+.footer{
+    padding-top: 20px;
+}
+.footer-img{
+    width: 20px;
+}
+ /* 5th part  */
+.man{
+    text-align: center;
+}
+.man-pic{
+    width: 25%;
+}
+/* 6th part */
+.row1{
+    padding-top: 10px;
+    color: white;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: rgb(221, 59, 221);
+}
+.copy-right{
+    color: white;
+    padding-bottom: 20px;
+}
