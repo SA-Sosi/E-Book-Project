@@ -9,16 +9,11 @@
     padding:0px 15px 0px 15px;
     margin-left: 20px;
  } 
- nav-item{
-    padding:2em;
-    }
-.nav-link{
-    color: black;
-}
+ 
 /* for carousel 2nd part*/
 .color{
     background-color:rgb(215, 240, 215, 0.5);
-   padding-bottom: 40px;
+    padding-bottom: 40px;
 }
 /* .pic{
     padding-right: 20px;
@@ -97,7 +92,7 @@
 }
 a{
     color: white;
-}
+} 
 a:hover{
     color: rgb(221, 59, 221);
 }
